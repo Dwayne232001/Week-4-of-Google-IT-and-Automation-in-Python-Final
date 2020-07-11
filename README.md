@@ -1,2 +1,2 @@
 # Week-4-of-Google-IT-and-Automation-in-Python-Final
-Google IT and Automation final assignment 
+This consists of all the sections I have worked on (with the help of others from the discussion fourms) 
